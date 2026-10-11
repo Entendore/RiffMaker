@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.RiffMaker" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">#0E1118</item>
+        <item name="colorPrimary">#22D3A7</item>
+        <item name="colorAccent">#22D3A7</item>
+    </style>
+</resources>
