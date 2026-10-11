@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_undo" android:title="@string/undo" app:showAsAction="never" />
+    <item android:id="@+id/action_redo" android:title="@string/redo" app:showAsAction="never" />
+    <item android:id="@+id/action_save_project" android:title="@string/save_project" app:showAsAction="never" />
+    <item android:id="@+id/action_open_project" android:title="@string/open_project" app:showAsAction="never" />
+    <item android:id="@+id/action_delete_project" android:title="@string/delete_project" app:showAsAction="never" />
+    <item android:id="@+id/action_export_midi" android:title="@string/export_midi" app:showAsAction="never" />
+    <item android:id="@+id/action_export_wav" android:title="@string/export_wav" app:showAsAction="never" />
+    <item android:id="@+id/action_export_m4a" android:title="@string/export_m4a" app:showAsAction="never" />
+    <item android:id="@+id/action_save_downloads" android:title="@string/save_downloads" app:showAsAction="never" />
+    <item android:id="@+id/action_rate" android:title="@string/rate" app:showAsAction="never" />
+    <item android:id="@+id/action_clear" android:title="@string/clear" app:showAsAction="never" />
+</menu>
